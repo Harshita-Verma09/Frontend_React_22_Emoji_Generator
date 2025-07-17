@@ -10,6 +10,7 @@ This is a React application that allows users to search and select emojis. It fe
 
 ## Technologies Used
 
+
 -   React
 -   Axios (for fetching data)
 -   Unicode Emoji JSON API
